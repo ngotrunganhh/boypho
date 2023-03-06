@@ -1,0 +1,152 @@
+{
+    "language": "vi",
+    "keyActive": "b3",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 0,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100070298585170",
+        "100018689287953"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.15",
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "hanhtinh": {
+        "cooldownTime": ""
+    },
+    "cavev2": {
+        "cooldownTime": 1000000
+    },
+    "cavev3": {
+        "cooldownTime": 60
+    },
+    "checknude": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "duaxev2": {
+        "key": "1st"
+    },
+    "fbcover": {
+        "APIKEY": "HAPPY-NEW-YEAR"
+    },
+    "fishingv3": {
+        "APIKEY": ""
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "menuv2": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "nhomlenh": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyC0eTsffId9JOlve8OHQuvZEL5vrI1zX5Y",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "singv2": {
+        "YOUTUBE_API": "AIzaSyDQSfRP9PRSNSZQht0_J7JK4_dMWSBpIWY"
+    },
+    "tiktok": {
+        "APIKEY": ""
+    },
+    "tuongtac": {
+        "maxColumn": 10
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "workv2": {
+        "cooldownTime": 12000000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "xoso": {
+        "APIKEY": ""
+    },
+    "đĩ": {
+        "cooldownTime": ""
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "cave": {
+        "cooldownTime": ""
+    },
+    "menumin": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    }
+}
